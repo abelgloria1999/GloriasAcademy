@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/GloriasAcademy/static/css/main.eb58441b.css",
+    "main.js": "/GloriasAcademy/static/js/main.2dd239b7.js",
+    "static/media/title-background.jpg": "/GloriasAcademy/static/media/title-background.7b2cdc9897566f4788fa.jpg",
+    "index.html": "/GloriasAcademy/index.html",
+    "main.eb58441b.css.map": "/GloriasAcademy/static/css/main.eb58441b.css.map",
+    "main.2dd239b7.js.map": "/GloriasAcademy/static/js/main.2dd239b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb58441b.css",
+    "static/js/main.2dd239b7.js"
+  ]
+}
